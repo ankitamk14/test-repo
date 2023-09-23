@@ -9,3 +9,5 @@ xyz
 checking amend option
 new
 333
+Line 1
+Line2
